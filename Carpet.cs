@@ -23,6 +23,8 @@ namespace assignmentTwo
 			} else {
 				Console.WriteLine("pile carpet: $" + carpetTwo + " dollars is more expensive than berber carpet: $" + carpetOne + " dollars");
 			} 
+			Console.WriteLine();
+			Console.WriteLine("This calculator is brought to you by Chris Morris, Eunice, And Hafsa");
 			
 	
 
