@@ -19,12 +19,12 @@ namespace assignmentTwo
 
 			 if (carpetOne > carpetTwo) 
 			{  
-				Console.WriteLine("berber carpet: $" + carpetOne + " dollars is more expensive than pile carpet: $" + carpetTwo + " dollars");
+				Console.WriteLine("berber carpet: $" + carpetOne + " is more expensive than pile carpet: $" + carpetTwo + ".");
 			} else {
-				Console.WriteLine("pile carpet: $" + carpetTwo + " dollars is more expensive than berber carpet: $" + carpetOne + " dollars");
+				Console.WriteLine("pile carpet: $" + carpetTwo + " is more expensive than berber carpet: $" + carpetOne + ".");
 			} 
 			Console.WriteLine();
-			Console.WriteLine("This calculator is brought to you by Chris Morris, Eunice, And Hafsa");
+			Console.WriteLine("This calculator is brought to you by Chris Morris, Eunice, And Hafsa.");
 			
 	
 
